@@ -68,7 +68,7 @@
     </dependencies>
 
     <build>
-        <finalName>swagger-demo</finalName>
+        <finalName>springboot-swagger-demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
